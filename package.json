@@ -1,0 +1,22 @@
+{
+  "name": "promise-aplus-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promises-aplus-sample.js",
+  "scripts": {
+    "test": "promises-aplus-tests promises-aplus-sample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lao-jiawei/promise-aplus-sample.git"
+  },
+  "keywords": [
+    "promise-aplus"
+  ],
+  "author": "lao-jiawei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lao-jiawei/promise-aplus-sample/issues"
+  },
+  "homepage": "https://github.com/lao-jiawei/promise-aplus-sample#readme"
+}
